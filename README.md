@@ -1,5 +1,6 @@
 # WeatherApp-Using-JavaScript-
 A Realtime Simple WebApp which shows current weather stats of your location using JavaScript.
+This WebApp shows Temp in Degree and Farenhite Both by clicking on it.
 
 Weather Stats is used from "Dark-sky.net" API(https://darksky.net/dev).Create your free account and generate your key.Change Lat and Long in API key with your Location(Lat,Long).
 
